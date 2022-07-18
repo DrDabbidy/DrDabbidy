@@ -4,11 +4,9 @@ My name's David! I'm currently working at [Movable Ink](https://movableink.com) 
 
 ### Currently learning 📚
 
+- SQL
 - Django
-  - ORM
 - GraphQL
-  - Graphene
-  - Strawberry
 - React
 
 
