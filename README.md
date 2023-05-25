@@ -2,13 +2,11 @@
 
 My name's David! I'm currently working at [Movable Ink](https://movableink.com) as a software development intern, mostly working on backend web development. I'm also studying at University of Toronto, doing a double-major in computer science and philosophy.
 
-### Currently learning 📚
-
+## Currently learning 📚
 - SQL
 - Django
 - GraphQL
 - React
-
 
 <!--
 **DrDabbidy/DrDabbidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
