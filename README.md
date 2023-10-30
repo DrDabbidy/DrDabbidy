@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name's David! I'm currently working at [Movable Ink](https://movableink.com) as a software development intern, mostly working on backend web development. I'm also studying at University of Toronto, doing a double-major in computer science and philosophy.
+My name's David! <!-- I'm currently working at [Movable Ink](https://movableink.com) as a software development intern, mostly working on backend web development. -->
+I'm currently studying at University of Toronto, doing a double-major in computer science and philosophy.
 
 ## Currently learning 📚
 - SQL
