@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name's David! <!-- I'm currently working at [Movable Ink](https://movableink.com) as a software development intern, mostly working on backend web development. -->
-I study philosophy and computer science at University of Toronto. I'm currently working at Flint Learning Solutions as a software developer.
+I study philosophy and computer science at University of Toronto. I'm currently mostly studying philosophy, especially that of St Thomas Aquinas.
 
 ## Currently learning 📚
 - Haskell
