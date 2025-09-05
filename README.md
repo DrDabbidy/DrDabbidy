@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name's David! <!-- I'm currently working at [Movable Ink](https://movableink.com) as a software development intern, mostly working on backend web development. -->
-I study philosophy and computer science at University of Toronto. I'm currently mostly studying philosophy, especially that of St Thomas Aquinas.
+My name's David! I'm currently working at [Flint Learning Solutions](https://flintls.com) as a junior software engineer, doing fullstack web development. -->
+I studied philosophy at University of Toronto and am interested in the Thomistic tradition.
 
 ## Currently learning 📚
 - Haskell
-- GraphQL
+- GraphQL + Relay
+- Latin
+- Scholastic logic
 
 <!--
 **DrDabbidy/DrDabbidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
