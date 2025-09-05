@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name's David! I'm currently working at [Flint Learning Solutions](https://flintls.com) as a junior software engineer, doing fullstack web development. -->
+My name's David! I'm currently working at [Flint Learning Solutions](https://flintls.com) as a junior software engineer, doing fullstack web development.
 I studied philosophy at University of Toronto and am interested in the Thomistic tradition.
 
 ## Currently learning 📚
